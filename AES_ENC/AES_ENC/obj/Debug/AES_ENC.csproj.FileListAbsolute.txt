@@ -1,0 +1,7 @@
+C:\Users\jvillega\source\repos\AES_ENC\AES_ENC\bin\Debug\AES_ENC.exe.config
+C:\Users\jvillega\source\repos\AES_ENC\AES_ENC\bin\Debug\AES_ENC.exe
+C:\Users\jvillega\source\repos\AES_ENC\AES_ENC\bin\Debug\AES_ENC.pdb
+C:\Users\jvillega\source\repos\AES_ENC\AES_ENC\obj\Debug\AES_ENC.csprojAssemblyReference.cache
+C:\Users\jvillega\source\repos\AES_ENC\AES_ENC\obj\Debug\AES_ENC.csproj.CoreCompileInputs.cache
+C:\Users\jvillega\source\repos\AES_ENC\AES_ENC\obj\Debug\AES_ENC.exe
+C:\Users\jvillega\source\repos\AES_ENC\AES_ENC\obj\Debug\AES_ENC.pdb
